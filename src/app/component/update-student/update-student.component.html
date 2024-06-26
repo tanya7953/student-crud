@@ -1,0 +1,71 @@
+<div class="container">
+  <h2 class="text-center">Update Student</h2>
+  <form class="col-md-6 offset-md-3" (ngSubmit)="update()"  #updateForm="ngForm">
+    <div class="form-group">
+      <label for="firstname">First Name</label>
+      <input type="text" class="form-control" id="firstname" name="firstname" [(ngModel)]="studentdata.firstname" #firstname="ngModel"
+             required pattern="[a-zA-Z ]*">
+      <div *ngIf="firstname.invalid && (firstname.dirty || firstname.touched)" class="text-danger">
+        <div *ngIf="firstname.errors?.['required']">First Name is required.</div>
+        <div *ngIf="firstname.errors?.['pattern']">First Name must contain only alphabetic characters.</div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="lastname">Last Name</label>
+      <input type="text" class="form-control" [(ngModel)]="studentdata.lastname" name="lastname" id="lastname" placeholder="Enter Last Name" #lastname="ngModel" required pattern="[a-zA-Z ]*">
+      <div *ngIf="lastname.invalid && (lastname.dirty || lastname.touched)" class="text-danger">
+        <div *ngIf="lastname.errors?.['required']">last Name is required.</div>
+        <div *ngIf="lastname.errors?.['pattern']">last Name must contain only alphabetic characters.</div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="rollnumber">Roll Number</label>
+      <input type="text" class="form-control" id="rollnumber" name="rollnumber" [(ngModel)]="studentdata.rollnumber" required #rollnumber="ngModel">
+      <div *ngIf="rollnumber.invalid && (rollnumber.dirty || rollnumber.touched)" class="text-danger">
+        <div *ngIf="rollnumber.errors?.['required']">Roll Number is required.</div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="departmentSelect">Department</label>
+      <select class="form-control" [(ngModel)]="studentdata.department" #department="ngModel" name="department" id="departmentSelect" required>
+        <option value="">Select department</option>
+        <option>Finance</option>
+        <option>Human Resources</option>
+        <option>Marketing</option>
+        <option>Operations</option>
+      </select>
+      <div *ngIf="department.invalid && (department.dirty || department.touched)" class="text-danger">
+        <div *ngIf="department.errors?.['required']">Department is required.</div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>Gender</label>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" [(ngModel)]="studentdata.gender" name="gender" id="male" value="male">
+        <label class="form-check-label" for="male">Male</label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" [(ngModel)]="studentdata.gender" name="gender" id="female" value="female">
+        <label class="form-check-label" for="female">Female</label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" [(ngModel)]="studentdata.gender" name="gender" id="other" value="other">
+        <label class="form-check-label" for="other">Other</label>
+      </div>
+    </div>
+
+    <div class="form-check">
+      <input type="checkbox" class="form-check-input"  id="exampleCheck1" >
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+     
+    </div>
+
+    <div class="text-center mt-2">
+      <button type="submit" class="btn btn-primary" [disabled]="updateForm.invalid">Update</button>
+      <button type="button" routerLink="/studentlist" class="btn btn-success">Back</button>
+    </div>
+  </form>
+</div>

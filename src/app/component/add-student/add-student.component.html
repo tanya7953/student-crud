@@ -1,0 +1,70 @@
+<div class="container">
+  <form class="col-md-9 offset-md-3" [formGroup]="studentForm" (ngSubmit)="submitStudent(studentForm.value)">
+    <h2 class="text-center">Add Student</h2>
+    <div class="form-group">
+      <label for="firstname">First Name</label>
+      <input type="text" class="form-control" formControlName="firstname" id="firstname" aria-describedby="name" placeholder="Enter First Name">
+      <div *ngIf="studentForm.get('firstname')?.invalid && studentForm.get('firstname')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('firstname')?.errors?.['required']">First Name is required.</div>
+        <div *ngIf="studentForm.get('firstname')?.errors?.['alphabetic']">First Name must contain only alphabetic characters.</div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="lastname">Last Name</label>
+      <input type="text" class="form-control" formControlName="lastname" id="lastname" placeholder="Enter Last Name">
+      <div *ngIf="studentForm.get('lastname')?.invalid && studentForm.get('lastname')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('lastname')?.errors?.['required']">Last Name is required.</div>
+        <div *ngIf="studentForm.get('lastname')?.errors?.['alphabetic']">Last Name must contain only alphabetic characters.</div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="rollnumber">Roll Number</label>
+      <input type="text" class="form-control" id="rollnumber" formControlName="rollnumber" placeholder="Enter Roll Number">
+      <div *ngIf="studentForm.get('rollnumber')?.invalid && studentForm.get('rollnumber')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('rollnumber')?.errors?.['required']">Roll Number is required.</div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="departmentSelect">Department</label>
+      <select class="form-control" formControlName="department" id="departmentSelect">
+        <option value="">Select department</option>
+        <option>Finance</option>
+        <option>Human Resources</option>
+        <option>Marketing</option>
+        <option>Operations</option>
+      </select>
+      <div *ngIf="studentForm.get('department')?.invalid && studentForm.get('department')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('department')?.errors?.['required']">Department is required.</div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Gender</label>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" formControlName="gender" name="gender" id="male" value="male">
+        <label class="form-check-label" for="male">Male</label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" formControlName="gender" name="gender" id="female" value="female">
+        <label class="form-check-label" for="female">Female</label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" formControlName="gender" name="gender" id="other" value="other">
+        <label class="form-check-label" for="other">Other</label>
+      </div>
+      <div *ngIf="studentForm.get('gender')?.invalid && studentForm.get('gender')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('gender')?.errors?.['required']">Gender is required.</div>
+      </div>
+    </div>
+    <div class="form-check">
+      <input type="checkbox" class="form-check-input" formControlName="terms" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+      <div *ngIf="studentForm.get('terms')?.invalid && studentForm.get('terms')?.touched" class="text-danger">
+        <div *ngIf="studentForm.get('terms')?.errors?.['required']">You must accept the terms.</div>
+      </div>
+    </div>
+    <div class="text-center mt-2">
+      <button type="submit" class="btn btn-primary" [disabled]="studentForm.invalid">Submit</button>
+      <button type="button" routerLink="/studentlist" class="btn btn-success">Back</button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharm\\student-crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\update-student\\update-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\student-list\\student-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\pagenotfound\\pagenotfound.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\login-signup\\login-signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\add-student\\add-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\login-signup\\login-signup.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\login-signup\\login-signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\shared\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\update-student\\update-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\add-student\\add-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\add-student\\add-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\update-student\\update-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\alphabeticValidator.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\alphabeticValidator.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\student-list\\student-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\update-student\\update-student.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\pagenotfound\\pagenotfound.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\student-list\\student-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\component\\add-student\\add-student.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-26T03:26:03.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login-signup.component.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\login-signup\\login-signup.component.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.ts",
+              "RelativeToolTip": "src\\app\\component\\login-signup\\login-signup.component.ts",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T12:30:08.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pagenotfound.component.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\pagenotfound\\pagenotfound.component.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.ts",
+              "RelativeToolTip": "src\\app\\component\\pagenotfound\\pagenotfound.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T09:10:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\student-list\\student-list.component.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.ts",
+              "RelativeToolTip": "src\\app\\component\\student-list\\student-list.component.ts",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T12:46:17.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update-student.component.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\update-student\\update-student.component.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.ts",
+              "RelativeToolTip": "src\\app\\component\\update-student\\update-student.component.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T15:08:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\api.service.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\api.service.ts",
+              "RelativeToolTip": "src\\app\\api.service.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T12:13:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add-student.component.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\add-student\\add-student.component.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.ts",
+              "RelativeToolTip": "src\\app\\component\\add-student\\add-student.component.ts",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T08:34:58.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login-signup.component.css",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.css",
+              "RelativeDocumentMoniker": "src\\app\\component\\login-signup\\login-signup.component.css",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.css",
+              "RelativeToolTip": "src\\app\\component\\login-signup\\login-signup.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T09:15:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login-signup.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.html",
+              "RelativeDocumentMoniker": "src\\app\\component\\login-signup\\login-signup.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\login-signup\\login-signup.component.html",
+              "RelativeToolTip": "src\\app\\component\\login-signup\\login-signup.component.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T16:29:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auth.guard.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\shared\\auth.guard.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\auth.guard.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\shared\\auth.guard.ts",
+              "RelativeToolTip": "src\\app\\shared\\auth.guard.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T07:03:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "update-student.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.html",
+              "RelativeDocumentMoniker": "src\\app\\component\\update-student\\update-student.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.html",
+              "RelativeToolTip": "src\\app\\component\\update-student\\update-student.component.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T15:31:03.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "add-student.component.css",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.css",
+              "RelativeDocumentMoniker": "src\\app\\component\\add-student\\add-student.component.css",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.css",
+              "RelativeToolTip": "src\\app\\component\\add-student\\add-student.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-23T16:12:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "add-student.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.html",
+              "RelativeDocumentMoniker": "src\\app\\component\\add-student\\add-student.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.html",
+              "RelativeToolTip": "src\\app\\component\\add-student\\add-student.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T15:58:45.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "update-student.component.css",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.css",
+              "RelativeDocumentMoniker": "src\\app\\component\\update-student\\update-student.component.css",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.css",
+              "RelativeToolTip": "src\\app\\component\\update-student\\update-student.component.css",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T09:42:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "alphabeticValidator.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\alphabeticValidator.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\alphabeticValidator.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\alphabeticValidator.ts",
+              "RelativeToolTip": "src\\app\\component\\alphabeticValidator.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T10:42:40.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "student-list.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.html",
+              "RelativeDocumentMoniker": "src\\app\\component\\student-list\\student-list.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.html",
+              "RelativeToolTip": "src\\app\\component\\student-list\\student-list.component.html",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T15:58:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "update-student.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\update-student\\update-student.component.spec.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\update-student\\update-student.component.spec.ts",
+              "RelativeToolTip": "src\\app\\component\\update-student\\update-student.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T09:40:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T08:00:51.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "pagenotfound.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.html",
+              "RelativeDocumentMoniker": "src\\app\\component\\pagenotfound\\pagenotfound.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\pagenotfound\\pagenotfound.component.html",
+              "RelativeToolTip": "src\\app\\component\\pagenotfound\\pagenotfound.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T07:28:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T16:26:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "api.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\api.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\api.service.spec.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\api.service.spec.ts",
+              "RelativeToolTip": "src\\app\\api.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T06:43:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\db.json",
+              "RelativeDocumentMoniker": "db.json",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\db.json",
+              "RelativeToolTip": "db.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T06:00:35.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "student-list.component.css",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.css",
+              "RelativeDocumentMoniker": "src\\app\\component\\student-list\\student-list.component.css",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\student-list\\student-list.component.css",
+              "RelativeToolTip": "src\\app\\component\\student-list\\student-list.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-23T16:11:42.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-23T07:57:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-23T07:59:32.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T07:59:37.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "add-student.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\component\\add-student\\add-student.component.spec.ts",
+              "ToolTip": "C:\\Users\\sharm\\student-crud\\src\\app\\component\\add-student\\add-student.component.spec.ts",
+              "RelativeToolTip": "src\\app\\component\\add-student\\add-student.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-23T12:09:46.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

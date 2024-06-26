@@ -1,0 +1,63 @@
+<!--Nav Bar-->
+<nav class="navbar navbar-expand-lg " style="background-color: #DA70D6">
+  <div class="container-fluid">
+    <h1 style="color:antiquewhite; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Student Management CRUD</h1>
+    <div>
+      <button class="btn btn-success" routerLink="/addStudent">Add Student</button> &nbsp;
+      <button (click)="logout()"class="btn btn-success warning" routerLink="/">Logout</button>
+    </div>
+  </div>
+
+</nav>
+
+<div>
+
+</div>
+<!--Image Section-->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-5">
+      <div class="image">
+        <img src="https://img.freepik.com/free-vector/preparing-test-together-learning-studying-with-friends-effective-revision-revision-timetables-planning-how-revise-exams-concept_335657-825.jpg?w=996&t=st=1719130405~exp=1719131005~hmac=01a7fd0dd3b0e5df3054e9b0f7f191fa79171dd50d43b10f3521817d4640a35f"
+             class="img-fluid"
+             style="max-width: 100%; height: auto; margin-top:130px">
+      </div>
+
+    </div>
+    <div class="col-sm-7">
+      <table class="table table-bordered mt-3">
+        <thead>
+          <tr>
+            <th scope="col">First Name</th>
+            <th scope="col">Last Name</th>
+            
+            <th scope="col">Roll Number</th>
+            <th scope="col">Department</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Action</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of data">
+            <th>{{item.firstname | uppercase  }}</th>
+            <td>{{item.lastname   }}</td>     
+            <td>{{item.rollnumber}}</td>
+            <td>{{item.department | uppercase }}</td>
+            <td>{{item.gender  }}</td>
+            <td><i style="color:blue" routerLink="/updateStudent/{{item.id}}" class="fas fa-edit"></i>&nbsp;
+            <i style="color:red"  (click)="delete(item.id)" class="fas fa-trash"></i></td>
+          </tr>
+         
+        </tbody>
+      </table>
+
+    </div>
+   
+  </div>
+</div>
+
+
+
+

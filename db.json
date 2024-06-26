@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": "c36e",
+      "firstname": "Tanya",
+      "lastname": "Sharma",
+      "rollnumber": "2000219",
+      "department": "Human Resources",
+      "gender": "female",
+      "terms": true
+    },
+    {
+      "id": "1df8",
+      "firstname": "Samridhi",
+      "lastname": "Sharma",
+      "rollnumber": "2000219",
+      "department": "Marketing",
+      "gender": "female",
+      "terms": true
+    },
+    {
+      "id": "9313",
+      "firstname": "Vanshita",
+      "lastname": "Chawla",
+      "rollnumber": "2000228",
+      "department": "Human Resources",
+      "gender": "female",
+      "terms": true
+    },
+    {
+      "id": "36ce",
+      "firstname": "Akshit",
+      "lastname": "Sharma",
+      "rollnumber": "1",
+      "department": "Marketing",
+      "gender": "male",
+      "terms": true
+    }
+  ],
+  "signup": [
+    {
+      "id": "5be1",
+      "name": "Tanya",
+      "email": "tanya@gmail.com",
+      "password": 7953
+    }
+  ]
+}

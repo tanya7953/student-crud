@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\component",
+    "\\src\\app\\component\\add-student",
+    "\\src\\app\\component\\login-signup",
+    "\\src\\app\\component\\pagenotfound",
+    "\\src\\app\\component\\student-list",
+    "\\src\\app\\component\\update-student",
+    "\\src\\app\\shared"
+  ],
+  "SelectedNode": "\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}
