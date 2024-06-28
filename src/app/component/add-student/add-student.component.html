@@ -32,6 +32,7 @@
         <option>Human Resources</option>
         <option>Marketing</option>
         <option>Operations</option>
+        <option>Engineer</option>
       </select>
       <div *ngIf="studentForm.get('department')?.invalid && studentForm.get('department')?.touched" class="text-danger">
         <div *ngIf="studentForm.get('department')?.errors?.['required']">Department is required.</div>

@@ -9,11 +9,8 @@ import { ApiService } from '../../api.service';
   styleUrls: ['./add-student.component.css']
 })
 export class AddStudentComponent implements OnInit {
-
   studentForm!: FormGroup;
-
   constructor(private formBuilder: FormBuilder, private router: Router, private api: ApiService) { }
-
   ngOnInit(): void {
     this.studentForm = this.formBuilder.group({
       firstname: ['', [Validators.required, this.alphabeticValidator]],
@@ -24,7 +21,6 @@ export class AddStudentComponent implements OnInit {
       terms: ['', Validators.requiredTrue]
     });
   }
-
   submitStudent(data: any): void {
     if (this.studentForm.valid) {
       this.api.addStudent(data).subscribe((res: any) => {
@@ -34,7 +30,6 @@ export class AddStudentComponent implements OnInit {
       });
     }
   }
-
   private alphabeticValidator(control: AbstractControl): ValidationErrors | null {
     const value = control.value;
     if (value && !/^[a-zA-Z]+$/.test(value)) {
