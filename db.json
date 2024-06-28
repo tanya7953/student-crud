@@ -5,7 +5,7 @@
       "firstname": "Tanya",
       "lastname": "Sharma",
       "rollnumber": "2000219",
-      "department": "Human Resources",
+      "department": "Engineer",
       "gender": "female",
       "terms": true
     },
@@ -31,7 +31,7 @@
       "id": "36ce",
       "firstname": "Akshit",
       "lastname": "Sharma",
-      "rollnumber": "1",
+      "rollnumber": "2000212",
       "department": "Marketing",
       "gender": "male",
       "terms": true
@@ -42,7 +42,13 @@
       "id": "5be1",
       "name": "Tanya",
       "email": "tanya@gmail.com",
-      "password": 7953
+      "password": "7953"
+    },
+    {
+      "id": "5bf4",
+      "name": "Tanya ",
+      "email": "tanyasharma@gmail.com",
+      "password": "7953"
     }
   ]
 }
